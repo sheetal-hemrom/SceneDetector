@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "57d030fef47816846b79a669c00d65a3"
+build_time: [1528945871, 245186000]
+inputs:
+  "/Users/hemrosh/Documents/Projects/SceneDetector_Starter/SceneDetector/ViewController.swift": !dirty [1525883550, 0]
+  "/Users/hemrosh/Documents/Projects/SceneDetector_Starter/SceneDetector/AppDelegate.swift": [1496974624, 0]
+  "/Users/hemrosh/Documents/Projects/SceneDetector_Starter/DerivedData/SceneDetector/Build/Intermediates.noindex/SceneDetector.build/Debug-iphonesimulator/SceneDetector.build/DerivedSources/CoreMLGenerated/GoogLeNetPlaces/GoogLeNetPlaces.swift": [1528945871, 0]
